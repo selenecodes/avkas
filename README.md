@@ -1,0 +1,2 @@
+# avkas
+HU - AVKAS exercises
